@@ -18,4 +18,8 @@ function checkCountValue() {
     }
 };
 
+function resetFollowerCount() {
+    count = 0;
+    displayCount();
+};
 
